@@ -21,7 +21,9 @@ I build deep learning systems end to end, from early research through proof of c
 
 ### Background
 🎓 Imperial College London · William & Mary
+
 🧪 Before ML: wet-lab neuroscience & biology research, and clinical experience
+
 I love cats
 
 ### Elsewhere
