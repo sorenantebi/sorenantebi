@@ -22,6 +22,7 @@ I build deep learning systems end to end, from early research through proof of c
 ### Background
 🎓 Imperial College London · William & Mary
 🧪 Before ML: wet-lab neuroscience & biology research, and clinical experience
+I love cats
 
 ### Elsewhere
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-soren--antebi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soren-antebi/)
