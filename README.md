@@ -5,25 +5,25 @@ I build deep learning systems end to end, from early research through proof of c
 🌐 **[sorenantebi.github.io](https://sorenantebi.github.io)**: my site, with a walkable pixel-art version 🕹️
 
 ### What I work on
-- 🔍 Keypoint detection & feature matching for industrial inspection
-- 🩻 Bias and fairness in medical imaging models
-- ⚡ Efficient inference on edge devices (OpenVINO, ONNX Runtime)
-- 🤖 Agentic AI for research and enterprise applications
+- Keypoint detection & feature matching for industrial inspection
+- Bias and fairness in medical imaging models
+- Machine Vision
+- Agentic AI for research and enterprise applications
   
 ### Selected work
 | | |
 |---|---|
 | 📄 **[Slate tile re-identification](https://arxiv.org/abs/2607.04811)** | Hybrid deep feature matching (XFeat + MobileNet), IJCNN 2026 |
-| 📄 **[local prep app](https://github.com/sorenantebi/prep-app)** | locally hosted interview prep, organized + structured, combination with claude code CLI |
-| 🤖 **[Claims review agent](https://github.com/sorenantebi/claims-review-agent)** | Insurance claim decisions from deterministic rule gates + LLM reasoning · LangGraph, Claude Agent SDK, Postgres, OpenTelemetry |
-| 🩻 **[Chest X-ray bias](https://github.com/sorenantebi/chex-aIchemy)** | Domain-adversarial networks for removing bias (MSc thesis) |
-| 🧠 **[Brain tumour segmentation](https://github.com/sorenantebi/unet-cpp)** | U-Net written from scratch in C++ ([live demo](https://sorenantebi.github.io/mdr/)) |
-| 🚗 **[Otsu & k-means](https://github.com/sorenantebi/otsu)** | Classical image thresholding and line fitting in C++, no OpenCV |
+| **[local prep app](https://github.com/sorenantebi/prep-app)** | locally hosted interview prep, organized + structured, combination with claude code CLI |
+| **[Claims review agent](https://github.com/sorenantebi/claims-review-agent)** | Insurance claim decisions from deterministic rule gates + LLM reasoning · LangGraph, Claude Agent SDK, Postgres, OpenTelemetry |
+| **[Chest X-ray bias](https://github.com/sorenantebi/chex-aIchemy)** | Domain-adversarial networks for removing bias (MSc thesis) |
+| **[Brain tumour segmentation](https://github.com/sorenantebi/unet-cpp)** | U-Net written from scratch in C++ ([live demo](https://sorenantebi.github.io/mdr/)) |
+| **[Otsu & k-means](https://github.com/sorenantebi/otsu)** | Classical image thresholding and line fitting in C++, no OpenCV |
 
 ### Background
 🎓 Imperial College London · William & Mary
 
-🧪 Before ML: wet-lab neuroscience & biology research, and clinical experience
+Before ML: wet-lab neuroscience & biology research, and clinical experience
 
 I love cats
 
