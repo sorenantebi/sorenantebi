@@ -14,6 +14,7 @@ I build deep learning systems end to end, from early research through proof of c
 | | |
 |---|---|
 | 📄 **[Slate tile re-identification](https://arxiv.org/abs/2607.04811)** | Hybrid deep feature matching (XFeat + MobileNet), IJCNN 2026 |
+| **[rfdetr object detection](https://github.com/sorenantebi/custom-rfdetr-suite)** | c++ implementation for onnx rfdetr model (ONNXRuntime) |
 | **[local interview prep app](https://github.com/sorenantebi/prep-app)** | locally hosted interview prep, organized + structured, combination with claude code CLI |
 | **[Claims review agent](https://github.com/sorenantebi/claims-review-agent)** | Insurance claim decisions from deterministic rule gates + LLM reasoning · LangGraph, Claude Agent SDK, Postgres, OpenTelemetry |
 | **[Chest X-ray bias](https://github.com/sorenantebi/chex-aIchemy)** | Domain-adversarial networks for removing bias (MSc thesis) |
